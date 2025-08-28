@@ -22,11 +22,8 @@ Before running this project, make sure you have installed the following:
      ```
 
 2. **MySQL Database (>= 5.7)**
-   - [Download MySQL Community Edition](https://dev.mysql.com/downloads/mysql/)  
-   - Start MySQL service and create a database:
-     ```sql
-     CREATE DATABASE hospital_db;
-     ```
+   - Follow the folloing video 
+   - https://youtu.be/hiS_mWZmmI0?si=iTEDnnYO1YsmkRbb
 
 3. **MySQL Connector/J (JDBC Driver)**
    - [Download MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/)  
